@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+!.env.example
+data/
+*.db
+*.db-*
+temp_mail_users.json
+temp_mail_users.json.tmp
+__pycache__/
+.pytest_cache/
+.cache/
+attached_assets/

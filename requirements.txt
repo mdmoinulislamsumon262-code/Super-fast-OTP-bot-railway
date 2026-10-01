@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.36.0
+requests==2.32.3
+httpx==0.28.1
+pyotp==2.9.0
